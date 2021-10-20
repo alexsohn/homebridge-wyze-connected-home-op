@@ -32,7 +32,7 @@ Supported devices will be discovered and added to Homebridge automatically.
 
 Special thanks to the following projects for reference and inspiration:
 
-- [RMCob] (https://github.com/RMCob/homebridge-wyze-connected-home-op), for updating the original Wyze Homebridge plugin.
+- [RMCob](https://github.com/RMCob/homebridge-wyze-connected-home-op), for updating the original Wyze Homebridge plugin.
 - [ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi), a Wyze integration for Home Assistant.
 - [wyze-node](https://github.com/noelportugal/wyze-node), a Node library for the Wyze API.
 
